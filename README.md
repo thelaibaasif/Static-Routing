@@ -1,4 +1,5 @@
-# Introduction to Static Routing
+# Introduction to Static Routing-Computer Networks 
+
 
 ## Description
 This project delves into the world of static routing, explaining how routers forward packets in a network using manually configured routes. It covers the essentials of configuring static routes, understanding the routing table, and applying routing principles to ensure successful packet delivery between devices.
